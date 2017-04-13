@@ -1,2 +1,1 @@
-# hoc-git
-Just a shit
+ Huong dan co ban ve Git 
